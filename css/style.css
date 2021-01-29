@@ -1,0 +1,73 @@
+.bg-header {
+	background-image: url('../img/image1.jpg');
+	height: 1080px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+.header-wraper {
+	max-width: 1080px;
+	width: 100%;
+	margin: 0 auto;
+}
+.header-flex {
+	display: flex;
+	justify-content: space-between;
+}
+.nav-ul {
+	display: flex;
+	margin-top: 40px;
+	color: #FFFFFF;
+}
+.nav-a {
+	color: #FFFFFF;
+}
+.nav-li {
+	margin-right: 50px;
+}
+.flex-container {
+	position: absolute;
+	width: 428px;	
+	height: 109px;
+	background-color:#A80E0E;
+	top: 0;
+	right: 0;
+}
+.header-title {
+	position: absolute;
+	color: #FFFFFF;
+	font-size: 100px;
+	margin-top: 200px;
+	margin-left: 200px;
+}
+.header-title2 {
+	position: absolute;
+	color: #FFFFFF;
+	font-size: 45px;
+	margin-top: 400px;
+	margin-left: 200px;
+	width: 450px;
+}
+.gilaki {
+	position: relative;
+	width: 100%;
+	margin-top: 680px;
+	margin-left:200px;
+
+
+}
+.order {
+	position: absolute;
+	color: #FFFFFF;
+	font-size: 30px;
+	margin-bottom:60px;
+}
+.container-2 {
+	background-color: #FFFFFF;
+	height: 1080px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
